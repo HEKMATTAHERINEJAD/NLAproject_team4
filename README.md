@@ -1,2 +1,2 @@
 
-Open the NLA project.iphy file
+Open the NLA project.ipynb file
